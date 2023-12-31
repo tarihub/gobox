@@ -4,6 +4,20 @@
 Upload a file in restricted linux environment
 ```shell
 ./upload https://bashupload.com file
+
+Status: 200 OK
+Response Body: 
+=========================
+
+Uploaded 1 file, 6 bytes
+
+wget https://bashupload.com/xxxx/xxxxxxx
+
+=========================
+
+
+File uploaded successfully
+
 ```
 
 ## netstat
